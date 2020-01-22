@@ -1,0 +1,11 @@
+/Users/rosewisotzky/practice-space/csharp/intro/bin/Debug/netcoreapp2.2/intro.deps.json
+/Users/rosewisotzky/practice-space/csharp/intro/bin/Debug/netcoreapp2.2/intro.runtimeconfig.json
+/Users/rosewisotzky/practice-space/csharp/intro/bin/Debug/netcoreapp2.2/intro.runtimeconfig.dev.json
+/Users/rosewisotzky/practice-space/csharp/intro/bin/Debug/netcoreapp2.2/intro.dll
+/Users/rosewisotzky/practice-space/csharp/intro/bin/Debug/netcoreapp2.2/intro.pdb
+/Users/rosewisotzky/practice-space/csharp/intro/obj/Debug/netcoreapp2.2/intro.csprojAssemblyReference.cache
+/Users/rosewisotzky/practice-space/csharp/intro/obj/Debug/netcoreapp2.2/intro.csproj.CoreCompileInputs.cache
+/Users/rosewisotzky/practice-space/csharp/intro/obj/Debug/netcoreapp2.2/intro.AssemblyInfoInputs.cache
+/Users/rosewisotzky/practice-space/csharp/intro/obj/Debug/netcoreapp2.2/intro.AssemblyInfo.cs
+/Users/rosewisotzky/practice-space/csharp/intro/obj/Debug/netcoreapp2.2/intro.dll
+/Users/rosewisotzky/practice-space/csharp/intro/obj/Debug/netcoreapp2.2/intro.pdb
